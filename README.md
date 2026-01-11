@@ -78,11 +78,6 @@ This project demonstrates:
 * Secure scripting practices
 * Ethical hacking fundamentals
 
-✅ Suitable for:
-
-* Cyber Security Students
-* Junior Penetration Testers
-* Red Team Beginners
 
 ---
 
