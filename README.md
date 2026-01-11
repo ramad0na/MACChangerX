@@ -1,2 +1,2 @@
 # MACChangerX
-"Python tool to change MAC address on Linux
+Python tool to change MAC address on Linux
