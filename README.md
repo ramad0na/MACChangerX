@@ -27,7 +27,7 @@
 ```bash
 git clone https://github.com/ramad0na/MACChangerX.git
 cd MACChangerX
-sudo python3 mac.py
+sudo python3 MacChangerX.py
 ```
 
 ---
@@ -35,7 +35,7 @@ sudo python3 mac.py
 ## ▶️ Usage
 
 ```bash
-sudo python3 mac.py
+sudo python3 MacChangerX.py
 ```
 
 You will be prompted to:
